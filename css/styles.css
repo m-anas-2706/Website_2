@@ -1,0 +1,143 @@
+body {
+  color: #40514E;
+  margin-top: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  }
+
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: "Sacramento", cursive;
+  }
+
+h2 {
+  color: #66BFBF;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h3 {
+  color: #11999E;
+  font-family:"Montserrat", sans-serif;
+  font-size: 1rem;
+}
+
+hr {
+  width: 5%;
+  border-style: dotted none none;
+  border-color: #EAF6F6;
+  border-width: 5px;
+}
+
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.my-name {
+  color: #EAF6F6;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.Top-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #EAF6F6;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  line-height: 5;
+}
+
+.contact-me {
+  line-height: 3;
+}
+
+.first-cloud-image {
+   width: 100px;
+   height: 100px;
+   position: absolute;
+   right: 325px;
+   top: 10px;
+}
+
+.second-cloud-image {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 275px;
+  left: 300px;
+}
+
+.mountain-image {
+   width: 512px;
+   height: 412px;
+  }
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile-pic {
+  margin-top: 75px;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.web {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.design {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn{
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #abeaff 5%, #019ad2 100%);
+	background-color:#abeaff;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #abeaff 100%);
+	background-color:#019ad2;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.my-skills {
+  margin-top: 50px;
+}
